@@ -1,0 +1,4 @@
+Tempfile.txt
+This is the second temp file.
+
+These changes will not be tracked anymore.
